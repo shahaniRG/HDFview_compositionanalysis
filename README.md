@@ -6,4 +6,4 @@ First, crop the area you already know the composition (at equilibrium) and calcu
 
 This intensity can be used to calculate the intensity at different temperature.
 
-The intensity can be converted to composition, you need to solve the simultaneous equations.
+The intensity can be converted to composition, you may need to solve the simultaneous equations.
